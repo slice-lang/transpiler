@@ -1,3 +1,7 @@
+# hello world
+```rust
+print("Hello World!\n");
+```
 # fib in slice
 ```rust
 fun fib(indx of u8) -> u64 {
